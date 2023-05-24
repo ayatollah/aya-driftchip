@@ -1,0 +1,14 @@
+{
+    "drift_label": "Slår på/av driftläge i bilens ECU",
+    "cancel_label": "Avbrutet",
+    "cancel_desc_chip": "Avbryter aktivering av driftchip",
+    "stop_vehicle_label": "Stanna fordonet",
+    "stop_veh_desc": "Du måste vara parkerad för att kunna aktivera driftläge",
+    "toggle_drift_label": "Ändrar driftläge",
+    "toggle_drift_off": "Stänger av driftläge",
+    "toggle_drift_on": "Slår på driftläge",
+    "outside_veh_label": "Utanför fordonet",
+    "outside_veh_desc": "Du måste sitta i ett fordon",
+    "open_box": "Öppnar låda",
+    "cancel_desc_box": "Struntar i att öppna lådan"
+}

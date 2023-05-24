@@ -1,0 +1,23 @@
+	["driftchip"] = {
+		label = "Drift Chip",
+		weight = 300,
+		degade = 21000,
+		stack = true,
+		client = {
+			event = 'cw-driftchip:client:toggleDrift'
+		},
+		close = true,
+		allowArmed = true,
+		description = "Use this to tweak the ECU to enable drift mode on or off",
+	},
+	["driftchipbox"] = {
+		label = "Drift Chip Box",
+		weight = 350,
+		stack = true,
+		client = {
+			event = 'cw-driftchip:client:openbox'
+		},
+		close = true,
+		allowArmed = true,
+		description = "Contains a drift chip",
+	},
