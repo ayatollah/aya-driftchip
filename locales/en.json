@@ -1,0 +1,14 @@
+{
+    "drift_label": "Turning on/off drift mode",
+    "cancel_label": "Canceled",
+    "cancel_desc_chip": "Canceling...",
+    "stop_vehicle_label": "Stop the vehicle",
+    "stop_veh_desc": "Du have to stand still to be able to activate drift mode",
+    "toggle_drift_label": "Changing drift mode",
+    "toggle_drift_off": "Turning off drift mode",
+    "toggle_drift_on": "Turning on drift mode",
+    "outside_veh_label": "Outside the vehicle",
+    "outside_veh_desc": "You have to be inside a vehicle",
+    "open_box": "Opening box",
+    "cancel_desc_box": "Canceling opening box"
+}
